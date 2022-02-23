@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Codehouse-Satty
 - 👀 I’m interested in Cloud computing Web development & Python automation.
 - 🌱 I’m currently learning web-development & AWS services automation.
-- 💞️ I’m looking to collaborate on Python,AWS & Go lang
+- 💞️ I’m looking to collaborate on Python & AWS
 - 📫 How to reach me --> satyajeetsahoo9@gmail.com
 
 <!---
